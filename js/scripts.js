@@ -7,3 +7,5 @@ var add = function(number1, number2) {
 
     var result = add(number1, number2);
     alert(result);
+
+    var add = function()
